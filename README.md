@@ -1,8 +1,8 @@
 # MRD-DressToSurvive
 
-Jocelyn Le, Rayann Liang, Emmaly Nguyen, Jace Walden
-LMC 4733 - Mixed Reality
-22 April 2025
+Jocelyn Le, Rayann Liang, Emmaly Nguyen, Jace Walden |
+LMC 4733 - Mixed Reality |
+22 April 2025 |
 Dress to Survive Final Project Report
 
 Project Goal
