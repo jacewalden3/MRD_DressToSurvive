@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="woodchips3" size="10.000000 5.602504" />
+    <ImageTarget name="woodchips2" size="10.000000 10.000000" />
+    <ImageTarget name="woodchips1" size="10.000000 7.000000" />
+    <ImageTarget name="texture4" size="10.000000 10.031250" />
+    <ImageTarget name="texture3" size="10.000000 7.500000" />
+    <ImageTarget name="texture2" size="10.000000 10.000000" />
+    <ImageTarget name="texture1" size="10.000000 5.329374" />
+    <ImageTarget name="stonewall" size="10.000000 6.661342" />
+    <ImageTarget name="rocks4" size="10.000000 7.000000" />
+    <ImageTarget name="rocks3" size="10.000000 6.661342" />
+    <ImageTarget name="rocks2" size="10.000000 6.666667" />
+    <ImageTarget name="rocks1" size="10.000000 6.666667" />
+  </Tracking>
+</QCARConfig>

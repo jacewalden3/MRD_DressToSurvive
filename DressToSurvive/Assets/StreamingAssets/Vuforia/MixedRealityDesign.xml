@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="grayRocks" size="10.000000 7.000000" />
+    <ImageTarget name="tracker1" size="10.000000 10.000000" />
+    <ImageTarget name="tracker6" size="10.000000 10.000000" />
+    <ImageTarget name="imagetarget3" size="10.000000 10.000000" />
+    <ImageTarget name="imagetarget2" size="10.000000 10.000000" />
+    <ImageTarget name="test" size="10.000000 10.033444" />
+  </Tracking>
+</QCARConfig>
